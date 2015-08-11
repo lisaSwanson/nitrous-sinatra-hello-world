@@ -1,0 +1,11 @@
+    1  pwd
+    2  cd code 
+    3  cd ~/code
+    4  ls -la
+    5  rm -rf example
+    6  mkdir sinatra-hello-world
+    7  cd sinatra-hello-world
+    8  bundle init
+    9  rspec --init
+   10  bundle
+   11  bundle exec rspec --init
